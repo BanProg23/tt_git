@@ -1,0 +1,2 @@
+h = "hello"
+puts h
